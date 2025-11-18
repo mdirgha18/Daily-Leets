@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0717-1-bit-and-2-bit-characters](https://github.com/mdirgha18/Daily-Leets/tree/master/0717-1-bit-and-2-bit-characters) |
 | [2625-increment-submatrices-by-one](https://github.com/mdirgha18/Daily-Leets/tree/master/2625-increment-submatrices-by-one) |
 ## Matrix
 |  |
