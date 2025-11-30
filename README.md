@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mdirgha18/Daily-Leets/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mdirgha18/Daily-Leets/tree/master/0759-set-intersection-size-at-least-two) |
+| [1590-make-sum-divisible-by-p](https://github.com/mdirgha18/Daily-Leets/tree/master/1590-make-sum-divisible-by-p) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mdirgha18/Daily-Leets/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2625-increment-submatrices-by-one](https://github.com/mdirgha18/Daily-Leets/tree/master/2625-increment-submatrices-by-one) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mdirgha18/Daily-Leets/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/mdirgha18/Daily-Leets/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mdirgha18/Daily-Leets/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/mdirgha18/Daily-Leets/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/mdirgha18/Daily-Leets/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mdirgha18/Daily-Leets/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mdirgha18/Daily-Leets/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
