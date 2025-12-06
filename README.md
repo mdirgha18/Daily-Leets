@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mdirgha18/Daily-Leets/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Matrix
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/mdirgha18/Daily-Leets/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mdirgha18/Daily-Leets/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mdirgha18/Daily-Leets/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -110,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/mdirgha18/Daily-Leets/tree/master/2211-count-collisions-on-a-road) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
