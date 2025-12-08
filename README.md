@@ -58,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/mdirgha18/Daily-Leets/tree/master/1925-count-square-sum-triples) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mdirgha18/Daily-Leets/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Math
 |  |
 | ------- |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mdirgha18/Daily-Leets/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1925-count-square-sum-triples](https://github.com/mdirgha18/Daily-Leets/tree/master/1925-count-square-sum-triples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mdirgha18/Daily-Leets/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mdirgha18/Daily-Leets/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
