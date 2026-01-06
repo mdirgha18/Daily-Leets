@@ -152,11 +152,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdirgha18/Daily-Leets/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/mdirgha18/Daily-Leets/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mdirgha18/Daily-Leets/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdirgha18/Daily-Leets/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/mdirgha18/Daily-Leets/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mdirgha18/Daily-Leets/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Search
@@ -209,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/mdirgha18/Daily-Leets/tree/master/0756-pyramid-transition-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdirgha18/Daily-Leets/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdirgha18/Daily-Leets/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
