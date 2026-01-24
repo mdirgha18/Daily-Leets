@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mdirgha18/Daily-Leets/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/mdirgha18/Daily-Leets/tree/master/1390-four-divisors) |
 | [1590-make-sum-divisible-by-p](https://github.com/mdirgha18/Daily-Leets/tree/master/1590-make-sum-divisible-by-p) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdirgha18/Daily-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/mdirgha18/Daily-Leets/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mdirgha18/Daily-Leets/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mdirgha18/Daily-Leets/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/mdirgha18/Daily-Leets/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdirgha18/Daily-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mdirgha18/Daily-Leets/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mdirgha18/Daily-Leets/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mdirgha18/Daily-Leets/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/mdirgha18/Daily-Leets/tree/master/0759-set-intersection-size-at-least-two) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdirgha18/Daily-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/mdirgha18/Daily-Leets/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mdirgha18/Daily-Leets/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mdirgha18/Daily-Leets/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdirgha18/Daily-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
