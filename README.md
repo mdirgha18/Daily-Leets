@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mdirgha18/Daily-Leets/tree/master/0067-add-binary) |
+| [0401-binary-watch](https://github.com/mdirgha18/Daily-Leets/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/mdirgha18/Daily-Leets/tree/master/0756-pyramid-transition-matrix) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mdirgha18/Daily-Leets/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/mdirgha18/Daily-Leets/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/mdirgha18/Daily-Leets/tree/master/0756-pyramid-transition-matrix) |
 ## Breadth-First Search
 |  |
