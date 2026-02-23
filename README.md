@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/mdirgha18/Daily-Leets/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mdirgha18/Daily-Leets/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mdirgha18/Daily-Leets/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mdirgha18/Daily-Leets/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mdirgha18/Daily-Leets/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/mdirgha18/Daily-Leets/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mdirgha18/Daily-Leets/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mdirgha18/Daily-Leets/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/mdirgha18/Daily-Leets/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mdirgha18/Daily-Leets/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mdirgha18/Daily-Leets/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/mdirgha18/Daily-Leets/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mdirgha18/Daily-Leets/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/mdirgha18/Daily-Leets/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mdirgha18/Daily-Leets/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mdirgha18/Daily-Leets/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -304,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/mdirgha18/Daily-Leets/tree/master/0761-special-binary-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mdirgha18/Daily-Leets/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mdirgha18/Daily-Leets/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
