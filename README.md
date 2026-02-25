@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1200-minimum-absolute-difference](https://github.com/mdirgha18/Daily-Leets/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mdirgha18/Daily-Leets/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mdirgha18/Daily-Leets/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/mdirgha18/Daily-Leets/tree/master/1390-four-divisors) |
 | [1590-make-sum-divisible-by-p](https://github.com/mdirgha18/Daily-Leets/tree/master/1590-make-sum-divisible-by-p) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdirgha18/Daily-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mdirgha18/Daily-Leets/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mdirgha18/Daily-Leets/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/mdirgha18/Daily-Leets/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3713-longest-balanced-substring-i) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/mdirgha18/Daily-Leets/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/mdirgha18/Daily-Leets/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/mdirgha18/Daily-Leets/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mdirgha18/Daily-Leets/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdirgha18/Daily-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mdirgha18/Daily-Leets/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/mdirgha18/Daily-Leets/tree/master/2054-two-best-non-overlapping-events) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/mdirgha18/Daily-Leets/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mdirgha18/Daily-Leets/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/mdirgha18/Daily-Leets/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mdirgha18/Daily-Leets/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mdirgha18/Daily-Leets/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mdirgha18/Daily-Leets/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3314-construct-the-minimum-bitwise-array-i) |
