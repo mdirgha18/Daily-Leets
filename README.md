@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mdirgha18/Daily-Leets/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/mdirgha18/Daily-Leets/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/mdirgha18/Daily-Leets/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mdirgha18/Daily-Leets/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/mdirgha18/Daily-Leets/tree/master/1925-count-square-sum-triples) |
@@ -379,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdirgha18/Daily-Leets/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/mdirgha18/Daily-Leets/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/mdirgha18/Daily-Leets/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
