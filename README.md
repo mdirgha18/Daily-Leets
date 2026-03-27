@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mdirgha18/Daily-Leets/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/2402-meeting-rooms-iii) |
 | [2625-increment-submatrices-by-one](https://github.com/mdirgha18/Daily-Leets/tree/master/2625-increment-submatrices-by-one) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mdirgha18/Daily-Leets/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mdirgha18/Daily-Leets/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mdirgha18/Daily-Leets/tree/master/3074-apple-redistribution-into-boxes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mdirgha18/Daily-Leets/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/mdirgha18/Daily-Leets/tree/master/2625-increment-submatrices-by-one) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mdirgha18/Daily-Leets/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdirgha18/Daily-Leets/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/mdirgha18/Daily-Leets/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mdirgha18/Daily-Leets/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mdirgha18/Daily-Leets/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mdirgha18/Daily-Leets/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mdirgha18/Daily-Leets/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mdirgha18/Daily-Leets/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mdirgha18/Daily-Leets/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/mdirgha18/Daily-Leets/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mdirgha18/Daily-Leets/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/2402-meeting-rooms-iii) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mdirgha18/Daily-Leets/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3433-count-mentions-per-user](https://github.com/mdirgha18/Daily-Leets/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
