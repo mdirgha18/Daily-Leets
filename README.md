@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdirgha18/Daily-Leets/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mdirgha18/Daily-Leets/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3714-longest-balanced-substring-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sorting
 |  |
 | ------- |
