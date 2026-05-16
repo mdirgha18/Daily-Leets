@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mdirgha18/Daily-Leets/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mdirgha18/Daily-Leets/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/0840-magic-squares-in-grid) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mdirgha18/Daily-Leets/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2054-two-best-non-overlapping-events](https://github.com/mdirgha18/Daily-Leets/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mdirgha18/Daily-Leets/tree/master/2141-maximum-running-time-of-n-computers) |
