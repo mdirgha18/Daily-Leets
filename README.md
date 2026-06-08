@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/mdirgha18/Daily-Leets/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mdirgha18/Daily-Leets/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdirgha18/Daily-Leets/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mdirgha18/Daily-Leets/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdirgha18/Daily-Leets/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mdirgha18/Daily-Leets/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/2402-meeting-rooms-iii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mdirgha18/Daily-Leets/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1914-cyclically-rotating-a-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mdirgha18/Daily-Leets/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/mdirgha18/Daily-Leets/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mdirgha18/Daily-Leets/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/2402-meeting-rooms-iii) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0696-count-binary-substrings](https://github.com/mdirgha18/Daily-Leets/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdirgha18/Daily-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mdirgha18/Daily-Leets/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
