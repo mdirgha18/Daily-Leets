@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/mdirgha18/Daily-Leets/tree/master/2625-increment-submatrices-by-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mdirgha18/Daily-Leets/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/mdirgha18/Daily-Leets/tree/master/2751-robot-collisions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mdirgha18/Daily-Leets/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mdirgha18/Daily-Leets/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mdirgha18/Daily-Leets/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1914-cyclically-rotating-a-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/mdirgha18/Daily-Leets/tree/master/2625-increment-submatrices-by-one) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mdirgha18/Daily-Leets/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdirgha18/Daily-Leets/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mdirgha18/Daily-Leets/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2054-two-best-non-overlapping-events](https://github.com/mdirgha18/Daily-Leets/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mdirgha18/Daily-Leets/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/mdirgha18/Daily-Leets/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mdirgha18/Daily-Leets/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3453-separate-squares-i) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/mdirgha18/Daily-Leets/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/2402-meeting-rooms-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mdirgha18/Daily-Leets/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mdirgha18/Daily-Leets/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdirgha18/Daily-Leets/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1345-jump-game-iv](https://github.com/mdirgha18/Daily-Leets/tree/master/1345-jump-game-iv) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mdirgha18/Daily-Leets/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
@@ -523,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mdirgha18/Daily-Leets/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdirgha18/Daily-Leets/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mdirgha18/Daily-Leets/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
