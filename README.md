@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/mdirgha18/Daily-Leets/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mdirgha18/Daily-Leets/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/mdirgha18/Daily-Leets/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/mdirgha18/Daily-Leets/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mdirgha18/Daily-Leets/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mdirgha18/Daily-Leets/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdirgha18/Daily-Leets/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/mdirgha18/Daily-Leets/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/mdirgha18/Daily-Leets/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/mdirgha18/Daily-Leets/tree/master/3531-count-covered-buildings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3606-coupon-code-validator](https://github.com/mdirgha18/Daily-Leets/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mdirgha18/Daily-Leets/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
 |  |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/mdirgha18/Daily-Leets/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdirgha18/Daily-Leets/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/mdirgha18/Daily-Leets/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -437,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/mdirgha18/Daily-Leets/tree/master/2463-minimum-total-distance-traveled) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mdirgha18/Daily-Leets/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/mdirgha18/Daily-Leets/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -526,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mdirgha18/Daily-Leets/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mdirgha18/Daily-Leets/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mdirgha18/Daily-Leets/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
@@ -562,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mdirgha18/Daily-Leets/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdirgha18/Daily-Leets/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/mdirgha18/Daily-Leets/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
