@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/mdirgha18/Daily-Leets/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/mdirgha18/Daily-Leets/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mdirgha18/Daily-Leets/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mdirgha18/Daily-Leets/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3606-coupon-code-validator](https://github.com/mdirgha18/Daily-Leets/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3614-process-string-with-special-operations-ii) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/mdirgha18/Daily-Leets/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/mdirgha18/Daily-Leets/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdirgha18/Daily-Leets/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/mdirgha18/Daily-Leets/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/mdirgha18/Daily-Leets/tree/master/3161-block-placement-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3739-count-subarrays-with-majority-element-ii) |
