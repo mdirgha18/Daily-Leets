@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mdirgha18/Daily-Leets/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mdirgha18/Daily-Leets/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/0840-magic-squares-in-grid) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mdirgha18/Daily-Leets/tree/master/0067-add-binary) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mdirgha18/Daily-Leets/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/0840-magic-squares-in-grid) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mdirgha18/Daily-Leets/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mdirgha18/Daily-Leets/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/mdirgha18/Daily-Leets/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/mdirgha18/Daily-Leets/tree/master/1200-minimum-absolute-difference) |
