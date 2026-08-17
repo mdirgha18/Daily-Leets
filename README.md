@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdirgha18/Daily-Leets/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1563-stone-game-v](https://github.com/mdirgha18/Daily-Leets/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mdirgha18/Daily-Leets/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/mdirgha18/Daily-Leets/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mdirgha18/Daily-Leets/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/mdirgha18/Daily-Leets/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mdirgha18/Daily-Leets/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/mdirgha18/Daily-Leets/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/mdirgha18/Daily-Leets/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mdirgha18/Daily-Leets/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1510-stone-game-iv](https://github.com/mdirgha18/Daily-Leets/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/mdirgha18/Daily-Leets/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/mdirgha18/Daily-Leets/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mdirgha18/Daily-Leets/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/mdirgha18/Daily-Leets/tree/master/2054-two-best-non-overlapping-events) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mdirgha18/Daily-Leets/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mdirgha18/Daily-Leets/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/mdirgha18/Daily-Leets/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/mdirgha18/Daily-Leets/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
