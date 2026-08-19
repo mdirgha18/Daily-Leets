@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/mdirgha18/Daily-Leets/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/mdirgha18/Daily-Leets/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mdirgha18/Daily-Leets/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/mdirgha18/Daily-Leets/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/mdirgha18/Daily-Leets/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdirgha18/Daily-Leets/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/mdirgha18/Daily-Leets/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdirgha18/Daily-Leets/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/mdirgha18/Daily-Leets/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mdirgha18/Daily-Leets/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/mdirgha18/Daily-Leets/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/mdirgha18/Daily-Leets/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/mdirgha18/Daily-Leets/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/mdirgha18/Daily-Leets/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mdirgha18/Daily-Leets/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/mdirgha18/Daily-Leets/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mdirgha18/Daily-Leets/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/mdirgha18/Daily-Leets/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/mdirgha18/Daily-Leets/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mdirgha18/Daily-Leets/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/mdirgha18/Daily-Leets/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mdirgha18/Daily-Leets/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mdirgha18/Daily-Leets/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
