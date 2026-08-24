@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/mdirgha18/Daily-Leets/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/mdirgha18/Daily-Leets/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mdirgha18/Daily-Leets/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/mdirgha18/Daily-Leets/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdirgha18/Daily-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1914-cyclically-rotating-a-grid) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mdirgha18/Daily-Leets/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/mdirgha18/Daily-Leets/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/mdirgha18/Daily-Leets/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/mdirgha18/Daily-Leets/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mdirgha18/Daily-Leets/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mdirgha18/Daily-Leets/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/mdirgha18/Daily-Leets/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/mdirgha18/Daily-Leets/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/mdirgha18/Daily-Leets/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/mdirgha18/Daily-Leets/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/mdirgha18/Daily-Leets/tree/master/1927-sum-game) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/mdirgha18/Daily-Leets/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mdirgha18/Daily-Leets/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/mdirgha18/Daily-Leets/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/mdirgha18/Daily-Leets/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mdirgha18/Daily-Leets/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/mdirgha18/Daily-Leets/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mdirgha18/Daily-Leets/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mdirgha18/Daily-Leets/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mdirgha18/Daily-Leets/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/mdirgha18/Daily-Leets/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mdirgha18/Daily-Leets/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mdirgha18/Daily-Leets/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -748,12 +753,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mdirgha18/Daily-Leets/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mdirgha18/Daily-Leets/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mdirgha18/Daily-Leets/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mdirgha18/Daily-Leets/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mdirgha18/Daily-Leets/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mdirgha18/Daily-Leets/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
