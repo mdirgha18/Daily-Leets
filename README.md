@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/mdirgha18/Daily-Leets/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2833-furthest-point-from-origin](https://github.com/mdirgha18/Daily-Leets/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mdirgha18/Daily-Leets/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mdirgha18/Daily-Leets/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mdirgha18/Daily-Leets/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/mdirgha18/Daily-Leets/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mdirgha18/Daily-Leets/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mdirgha18/Daily-Leets/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mdirgha18/Daily-Leets/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mdirgha18/Daily-Leets/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mdirgha18/Daily-Leets/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
