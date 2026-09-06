@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mdirgha18/Daily-Leets/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/mdirgha18/Daily-Leets/tree/master/0115-distinct-subsequences) |
 | [0696-count-binary-substrings](https://github.com/mdirgha18/Daily-Leets/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/mdirgha18/Daily-Leets/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/mdirgha18/Daily-Leets/tree/master/0761-special-binary-string) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/mdirgha18/Daily-Leets/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/mdirgha18/Daily-Leets/tree/master/0486-predict-the-winner) |
 | [0799-champagne-tower](https://github.com/mdirgha18/Daily-Leets/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/0960-delete-columns-to-make-sorted-iii) |
