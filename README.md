@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mdirgha18/Daily-Leets/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mdirgha18/Daily-Leets/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/mdirgha18/Daily-Leets/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/0840-magic-squares-in-grid) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mdirgha18/Daily-Leets/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/mdirgha18/Daily-Leets/tree/master/1390-four-divisors) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/mdirgha18/Daily-Leets/tree/master/0836-rectangle-overlap) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Stack
