@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/mdirgha18/Daily-Leets/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mdirgha18/Daily-Leets/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/mdirgha18/Daily-Leets/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mdirgha18/Daily-Leets/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mdirgha18/Daily-Leets/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mdirgha18/Daily-Leets/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mdirgha18/Daily-Leets/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mdirgha18/Daily-Leets/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/mdirgha18/Daily-Leets/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mdirgha18/Daily-Leets/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mdirgha18/Daily-Leets/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/mdirgha18/Daily-Leets/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/mdirgha18/Daily-Leets/tree/master/1871-jump-game-vii) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mdirgha18/Daily-Leets/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mdirgha18/Daily-Leets/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/mdirgha18/Daily-Leets/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mdirgha18/Daily-Leets/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mdirgha18/Daily-Leets/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mdirgha18/Daily-Leets/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mdirgha18/Daily-Leets/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/mdirgha18/Daily-Leets/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mdirgha18/Daily-Leets/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mdirgha18/Daily-Leets/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/mdirgha18/Daily-Leets/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mdirgha18/Daily-Leets/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mdirgha18/Daily-Leets/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mdirgha18/Daily-Leets/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mdirgha18/Daily-Leets/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2054-two-best-non-overlapping-events](https://github.com/mdirgha18/Daily-Leets/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mdirgha18/Daily-Leets/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/2812-find-the-safest-path-in-a-grid) |
