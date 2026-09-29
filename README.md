@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/mdirgha18/Daily-Leets/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdirgha18/Daily-Leets/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mdirgha18/Daily-Leets/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mdirgha18/Daily-Leets/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mdirgha18/Daily-Leets/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/mdirgha18/Daily-Leets/tree/master/2463-minimum-total-distance-traveled) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mdirgha18/Daily-Leets/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1914-cyclically-rotating-a-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mdirgha18/Daily-Leets/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2625-increment-submatrices-by-one](https://github.com/mdirgha18/Daily-Leets/tree/master/2625-increment-submatrices-by-one) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mdirgha18/Daily-Leets/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/mdirgha18/Daily-Leets/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mdirgha18/Daily-Leets/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mdirgha18/Daily-Leets/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mdirgha18/Daily-Leets/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/mdirgha18/Daily-Leets/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mdirgha18/Daily-Leets/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -858,4 +861,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mdirgha18/Daily-Leets/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
