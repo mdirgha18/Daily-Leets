@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/mdirgha18/Daily-Leets/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/mdirgha18/Daily-Leets/tree/master/0115-distinct-subsequences) |
 | [0696-count-binary-substrings](https://github.com/mdirgha18/Daily-Leets/tree/master/0696-count-binary-substrings) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/mdirgha18/Daily-Leets/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/mdirgha18/Daily-Leets/tree/master/0486-predict-the-winner) |
 | [0799-champagne-tower](https://github.com/mdirgha18/Daily-Leets/tree/master/0799-champagne-tower) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/mdirgha18/Daily-Leets/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/mdirgha18/Daily-Leets/tree/master/0756-pyramid-transition-matrix) |
 | [1096-brace-expansion-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/1096-brace-expansion-ii) |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mdirgha18/Daily-Leets/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
