@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mdirgha18/Daily-Leets/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/mdirgha18/Daily-Leets/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/mdirgha18/Daily-Leets/tree/master/0761-special-binary-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdirgha18/Daily-Leets/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mdirgha18/Daily-Leets/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/mdirgha18/Daily-Leets/tree/master/0759-set-intersection-size-at-least-two) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdirgha18/Daily-Leets/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdirgha18/Daily-Leets/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/mdirgha18/Daily-Leets/tree/master/1386-cinema-seat-allocation) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdirgha18/Daily-Leets/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdirgha18/Daily-Leets/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mdirgha18/Daily-Leets/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -872,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdirgha18/Daily-Leets/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mdirgha18/Daily-Leets/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
