@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mdirgha18/Daily-Leets/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1563-stone-game-v](https://github.com/mdirgha18/Daily-Leets/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdirgha18/Daily-Leets/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mdirgha18/Daily-Leets/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/mdirgha18/Daily-Leets/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mdirgha18/Daily-Leets/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mdirgha18/Daily-Leets/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mdirgha18/Daily-Leets/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mdirgha18/Daily-Leets/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdirgha18/Daily-Leets/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/mdirgha18/Daily-Leets/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mdirgha18/Daily-Leets/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdirgha18/Daily-Leets/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mdirgha18/Daily-Leets/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdirgha18/Daily-Leets/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdirgha18/Daily-Leets/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mdirgha18/Daily-Leets/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/mdirgha18/Daily-Leets/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mdirgha18/Daily-Leets/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/mdirgha18/Daily-Leets/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mdirgha18/Daily-Leets/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdirgha18/Daily-Leets/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1871-jump-game-vii](https://github.com/mdirgha18/Daily-Leets/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/mdirgha18/Daily-Leets/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mdirgha18/Daily-Leets/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -678,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdirgha18/Daily-Leets/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mdirgha18/Daily-Leets/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mdirgha18/Daily-Leets/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -728,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdirgha18/Daily-Leets/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mdirgha18/Daily-Leets/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdirgha18/Daily-Leets/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdirgha18/Daily-Leets/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mdirgha18/Daily-Leets/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
@@ -767,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/mdirgha18/Daily-Leets/tree/master/0761-special-binary-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdirgha18/Daily-Leets/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -781,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdirgha18/Daily-Leets/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mdirgha18/Daily-Leets/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mdirgha18/Daily-Leets/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/mdirgha18/Daily-Leets/tree/master/2685-count-the-number-of-complete-components) |
@@ -914,4 +922,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mdirgha18/Daily-Leets/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdirgha18/Daily-Leets/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mdirgha18/Daily-Leets/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdirgha18/Daily-Leets/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdirgha18/Daily-Leets/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdirgha18/Daily-Leets/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
