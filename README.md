@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mdirgha18/Daily-Leets/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/mdirgha18/Daily-Leets/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mdirgha18/Daily-Leets/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/mdirgha18/Daily-Leets/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/mdirgha18/Daily-Leets/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/mdirgha18/Daily-Leets/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mdirgha18/Daily-Leets/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mdirgha18/Daily-Leets/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/mdirgha18/Daily-Leets/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
