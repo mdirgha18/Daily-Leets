@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/mdirgha18/Daily-Leets/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/mdirgha18/Daily-Leets/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/mdirgha18/Daily-Leets/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/mdirgha18/Daily-Leets/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mdirgha18/Daily-Leets/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/mdirgha18/Daily-Leets/tree/master/1301-number-of-paths-with-max-score) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/0840-magic-squares-in-grid) |
 | [1254-number-of-closed-islands](https://github.com/mdirgha18/Daily-Leets/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/mdirgha18/Daily-Leets/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mdirgha18/Daily-Leets/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/mdirgha18/Daily-Leets/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mdirgha18/Daily-Leets/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/mdirgha18/Daily-Leets/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/mdirgha18/Daily-Leets/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mdirgha18/Daily-Leets/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2029-stone-game-ix](https://github.com/mdirgha18/Daily-Leets/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/mdirgha18/Daily-Leets/tree/master/2833-furthest-point-from-origin) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdirgha18/Daily-Leets/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/mdirgha18/Daily-Leets/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/mdirgha18/Daily-Leets/tree/master/1267-count-servers-that-communicate) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mdirgha18/Daily-Leets/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mdirgha18/Daily-Leets/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mdirgha18/Daily-Leets/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdirgha18/Daily-Leets/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/mdirgha18/Daily-Leets/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/mdirgha18/Daily-Leets/tree/master/1267-count-servers-that-communicate) |
 | [1345-jump-game-iv](https://github.com/mdirgha18/Daily-Leets/tree/master/1345-jump-game-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mdirgha18/Daily-Leets/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/mdirgha18/Daily-Leets/tree/master/2685-count-the-number-of-complete-components) |
@@ -841,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/mdirgha18/Daily-Leets/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/mdirgha18/Daily-Leets/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdirgha18/Daily-Leets/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mdirgha18/Daily-Leets/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mdirgha18/Daily-Leets/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
