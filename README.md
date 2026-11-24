@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/mdirgha18/Daily-Leets/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mdirgha18/Daily-Leets/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mdirgha18/Daily-Leets/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mdirgha18/Daily-Leets/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mdirgha18/Daily-Leets/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mdirgha18/Daily-Leets/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mdirgha18/Daily-Leets/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mdirgha18/Daily-Leets/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mdirgha18/Daily-Leets/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mdirgha18/Daily-Leets/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mdirgha18/Daily-Leets/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mdirgha18/Daily-Leets/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/mdirgha18/Daily-Leets/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mdirgha18/Daily-Leets/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mdirgha18/Daily-Leets/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mdirgha18/Daily-Leets/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mdirgha18/Daily-Leets/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdirgha18/Daily-Leets/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mdirgha18/Daily-Leets/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mdirgha18/Daily-Leets/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mdirgha18/Daily-Leets/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mdirgha18/Daily-Leets/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mdirgha18/Daily-Leets/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/mdirgha18/Daily-Leets/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdirgha18/Daily-Leets/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -975,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mdirgha18/Daily-Leets/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mdirgha18/Daily-Leets/tree/master/3312-sorted-gcd-pair-queries) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mdirgha18/Daily-Leets/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mdirgha18/Daily-Leets/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mdirgha18/Daily-Leets/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
